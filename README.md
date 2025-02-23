@@ -1,0 +1,3 @@
+About the Project:
+The project is a medical clinic website designed to provide patients with seamless access to essential services such as booking appointments, registering medical histories, and locating the clinic. The website features a user-friendly interface, responsive design, and integration with Google Maps for easy navigation. It was built using modern web technologies, including HTML, CSS, JavaScript, and Flask for backend functionality.
+One of the key features of this project is the patient data management system. Patient information, including medical histories and appointment details, is securely stored and organized in an Excel sheet. This allows the doctor to easily access and review patient data, ensuring efficient and personalized care.
